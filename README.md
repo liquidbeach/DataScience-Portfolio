@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome to my Data Science Portfolio! I’m liquidbeach, a data science enthusiast showcasing my skills in data analysis, visualization, and machine learning through practical projects. This repository contains a collection of projects demonstrating my ability to work with real-world datasets and build insightful solutions.
+Welcome to my Data Projects Portfolio! I’m liquidbeach, a Data enthusiast showcasing my skills in Data Science, Data analysis, Visualization, and Machine learning through practical projects. This repository contains a collection of projects demonstrating my ability to work with real-world datasets and build insightful solutions.
 
 ## Projects
 
